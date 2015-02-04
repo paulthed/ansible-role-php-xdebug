@@ -60,13 +60,13 @@ The maximimum function nesting level before Xdebug bails and throws a fatal exce
 
 ## Dependencies
 
-  - geerlingguy.php
+  - paulthed.php
 
 ## Example Playbook
 
     - hosts: webservers
       roles:
-        - { role: geerlingguy.php-xdebug }
+        - { role: paulthed.php-xdebug }
 
 ## License
 

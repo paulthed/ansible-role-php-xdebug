@@ -3,5 +3,5 @@
   remote_user: root
 
   roles:
-    - geerlingguy.php
+    - paulthed.php
     - ansible-role-php-xdebug
